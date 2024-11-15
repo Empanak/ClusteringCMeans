@@ -1,4 +1,3 @@
  - This is a simple school projects that allows the user to calculate the CMeans clustering both classic and fuzzy by the input of points and centroids quantity and positions by keyboard, moreover has a fuzzification parameter field.
  - When the process begin it upload some tables below the input fields so you can see the results with a 10^-4 decimal precission showing up the new values and costs for the new centroids. Also this project is able to show a cartesian plane with the new points.
- - Since my team left me during the process(xd), I'm working independent in improving the precission of the points of the cartesian plane, due to the size of the cartesian plane adapts to the calculated positions from the maximum given value in a coordinate,
- - it sometimes loss its precission when drawing the points in the plane.
+ - Since my team left me during the process(xd), I'm working independent in improving the precission of the points of the cartesian plane, due to the size of the cartesian plane adapts to the calculated positions from the maximum given value in a coordinate, it sometimes loss its precission when drawing the points in the plane.
